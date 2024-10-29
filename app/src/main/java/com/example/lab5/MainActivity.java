@@ -15,7 +15,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import java.util.ArrayList;
 import java.util.List;
-//End of new imports
+//End of new imports.
 import android.os.Bundle;
 
 import android.text.TextUtils;
